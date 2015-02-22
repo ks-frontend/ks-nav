@@ -1,0 +1,27 @@
+{
+  "name": "ks-nav",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ks-frontend/ks-nav.git",
+  "authors": [
+    "Khalid Sookia <khalidsookia@gmail.com>"
+  ],
+  "description": "ks-frontend-framework nav theme",
+  "main": "lib/nav.scss",
+  "keywords": [
+    "nav, styling, ks-nav, ks-frontend-framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/contrib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ks-core": "~0.0.0"
+  },
+  "devDependencies": {
+  }
+}
